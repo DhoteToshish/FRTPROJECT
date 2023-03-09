@@ -18,18 +18,18 @@ This is my FRT Project
 ![image](https://user-images.githubusercontent.com/125687058/223977428-f703b447-b9aa-405d-abf6-b6fa5655468f.png)
 ![image](https://user-images.githubusercontent.com/125687058/223977495-28c6a134-7756-4408-9515-e1fa68787cf2.png)
 
-##Services Page
+## Services Page
 ![image](https://user-images.githubusercontent.com/125687058/223977619-06d1ac4b-7d08-4a36-8e4f-5c29eb36896d.png)
 ![image](https://user-images.githubusercontent.com/125687058/223977667-178ccd76-2bad-48bb-9a40-bc875120ec1e.png)
 ![image](https://user-images.githubusercontent.com/125687058/223977712-0a3bc443-fa75-44ac-92db-def5cf07ea41.png)
 
 
-##Contact Page
+## Contact Page
 ![image](https://user-images.githubusercontent.com/125687058/223977822-64153361-051a-4ecb-995f-b337625ead18.png)
 ![image](https://user-images.githubusercontent.com/125687058/223977864-18ff3dba-b7bb-4bd1-81ff-2773e428e277.png)
 
 
-##Azure Portal ScreenShot
+## Azure Portal ScreenShot
 ![image](https://user-images.githubusercontent.com/125687058/223978131-dfd54280-2598-460f-b81f-3c6580327e1a.png)
 
 
